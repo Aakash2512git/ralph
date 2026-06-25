@@ -1,0 +1,7 @@
+# Per-project Ralph run state (copy prd.json.example to prd.json to start)
+prd.json
+progress.txt
+.last-branch
+
+# Archived runs from previous branches
+archive/
