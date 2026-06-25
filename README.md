@@ -39,6 +39,6 @@ chmod +x ralph/ralph.sh
 | `prompt.md` | Instructions given to Bob each iteration |
 | `prd.json` | Task list (gitignored — use `prd.json.example` as template) |
 | `progress.txt` | Learnings and iteration log (gitignored) |
-| `skills/` | Cursor skills for PRD generation and Ralph JSON conversion |
+| `skills/` | BOB skills for PRD generation and Ralph JSON conversion |
 
 Articles : https://heidloff.net/article/bob-ralph-wiggum/
