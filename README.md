@@ -40,24 +40,3 @@ chmod +x ralph/ralph.sh
 | `prd.json` | Task list (gitignored — use `prd.json.example` as template) |
 | `progress.txt` | Learnings and iteration log (gitignored) |
 | `skills/` | Cursor skills for PRD generation and Ralph JSON conversion |
-
-## Push to GitHub
-
-This repo is ready to push. From this directory:
-
-```bash
-# 1. Create a new empty repo on GitHub (no README/license — this repo has them)
-
-# 2. Add your remote (replace YOUR_USER and YOUR_REPO)
-git remote add origin https://github.com/YOUR_USER/YOUR_REPO.git
-
-# 3. Push
-git push -u origin main
-```
-
-Using SSH instead:
-
-```bash
-git remote add origin git@github.com:YOUR_USER/YOUR_REPO.git
-git push -u origin main
-```
